@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @DinhManh203<br>- 👀 I’m interested in software development, web development, and technology innovations.<br>- 🌱 I’m currently learning Python, React, and SQL, and exploring machine learning.<br>- 💞️ I’m looking to collaborate on open-source projects, particularly in web and mobile app development.<br>- 📫 How to reach me: You can reach me through my email at [dinhmanh0410@gmail.com] or via my GitHub issues page.<br>- 😄 Pronouns: He/Him
+- 👋 Hi, I’m @DinhManh203<br>- 👀 I’m interested in software development, web development, and technology innovations.<br>- 🌱 I’m currently learning Python, React, and SQL, and exploring machine learning.<br>- 💞️ I’m looking to collaborate on open-source projects, particularly in web and mobile app development.<br>- 📫 How to reach me: You can reach me through my email at [dinhmanhoke203@gmail.com] or via my GitHub issues page.<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
