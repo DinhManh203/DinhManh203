@@ -1,21 +1,87 @@
-# 💫 About Me:
-- 👋 Hi, I’m @DinhManh203<br>- 👀 I’m interested in software development, web development, and technology innovations.<br>- 🌱 I’m currently learning Python, React, and SQL, and exploring machine learning.<br>- 💞️ I’m looking to collaborate on open-source projects, particularly in web and mobile app development.<br>- 📫 How to reach me: You can reach me through my email at [dinhmanhoke203@gmail.com] or via my GitHub issues page.<br>- 😄 Pronouns: He/Him
+<div align="center">
+  <a href="https://github.com/DinhManh203">
+    <img 
+      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/banner.gif"
+      alt="banner"
+      width="100%"
+    />
+  </a>
+  <h2>✨ Hi! 👋 I'm Dinh Manh! Nice to meet you ✨</h2>
+</div>
 
+<br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sutiexuxi0410/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/5aqMhG7kg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sutiexuxi) 
+## ☕ About me . . .
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DinhManh203&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DinhManh203&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/DinhManh203">
+  <img align="left" width="180" src="https://github.com/DinhManh203.png" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h4>🔭 I’m interested in Web & Software Development</h4>
+<h4>🌱 I’m currently learning Python, React, SQL & Machine Learning</h4>
+<h4>💞️ I’m looking to collaborate on open-source projects</h4>
+<h4>📫 Contact: dinhmanhoke203@gmail.com</h4>
+<h4>😄 Pronouns: He / Him</h4>
 
----
-[![](https://visitcount.itsvg.in/api?id=DinhManh203&icon=5&color=13)](https://visitcount.itsvg.in)
+<br><br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔬 Programming Languages & Tools
+
+<p align="center">
+  <a href="https://github.com/DinhManh203">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,python,mysql,nodejs,git,github,vscode,windows&perline=6" />
+  </a>
+</p>
+
+<br>
+
+## 📊 Github Stats
+
+<div align="center">
+  <a href="https://github.com/DinhManh203">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<br>
+
+## 🍀 Github Commits
+
+<div align="center">
+  <a href="https://github.com/DinhManh203">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution snake" 
+        src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
+</div>
+
+<br>
+
+## 📫 Contact & Counter :3
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <a href="https://github.com/DinhManh203">
+          <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+        <a href="mailto:dinhmanhoke203@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" />
+        </a>
+        <a href="https://www.facebook.com/sutiexuxi0410/">
+          <img src="https://skillicons.dev/icons?i=facebook" />
+        </a>
+      </td>
+      <td align="center">
+        <img width="400" src="https://visitcount.itsvg.in/api?id=DinhManh203&icon=5&color=12" />
+      </td>
+    </tr>
+  </table>
+</div>
