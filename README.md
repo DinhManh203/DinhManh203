@@ -11,7 +11,7 @@
 
 <br/>
 
-# 💫 About Me
+# About Me
 
 👀 I’m interested in **software development, web development, and technology innovations**  
 🌱 I’m currently learning **Python, React, SQL**, and exploring **machine learning**  
@@ -20,11 +20,9 @@
 - Email: **dinhmanhoke203@gmail.com**  
 - GitHub: open an **Issue** on my repositories  
 
-😄 Pronouns: **He / Him**
-
 ---
 
-## 🔬 Programming Languages & Tools
+## Programming Languages & Tools
 
 <p align="center">
   <a target="_blank" href="https://github.com/DinhManh203">
@@ -37,7 +35,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center" style="gap-4">
   <img
@@ -61,6 +59,6 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
