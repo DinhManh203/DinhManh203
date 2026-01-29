@@ -6,7 +6,7 @@
       alt="GifBanner"
     />
   </a>
-  <h2>✨ Hi! 👋 I'm Dinh Manh! Nice to meet you (ˊ꒳ˋ)! ✨</h2>
+  <h2>✨ Hi! 👋 I'm Dinh Manh. Thanks for visiting my profile! ✨</h2>
 </div>
 
 <br/>
