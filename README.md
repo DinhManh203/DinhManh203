@@ -1,9 +1,9 @@
 <div align="center">
-  <a target="_blank" href="https://github.com/quangquynguyenvo">
+  <a target="_blank" href="https://github.com/DinhManh203">
     <img 
       src="https://github.com/DinhManh203/DinhManh203/blob/main/assets/video.gif"
-      width="60%"
-      alt="Profile Image"
+      width="100%"
+      alt="GifBanner"
     />
   </a>
   <h2>✨ Hi! 👋 I'm Dinh Manh! Nice to meet you (ˊ꒳ˋ)! ✨</h2>
@@ -27,9 +27,9 @@
 ## 🔬 Programming Languages & Tools
 
 <p align="center">
-  <a target="_blank" href="https://github.com/quangquynguyenvo">
+  <a target="_blank" href="https://github.com/DinhManh203">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,js,py,cpp,opencv,electron,nodejs,git,vscode,windows,ubuntu,ps,pr&perline=7"
+      src="https://skillicons.dev/icons?i=html,css,js,py,cpp,nextjs,electron,nodejs,git,vscode,windows,ubuntu,ps,pr&perline=7"
       alt="Skills"
     />
   </a>
