@@ -1,7 +1,7 @@
 <div align="center">
   <a target="_blank" href="https://github.com/DinhManh203">
     <img 
-      src="https://github.com/DinhManh203/DinhManh203/blob/main/assets/video.gif"
+      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/video.gif"
       width="100%"
       alt="GifBanner"
     />
