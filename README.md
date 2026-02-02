@@ -25,7 +25,7 @@
 <p align="center">
   <a target="_blank" href="https://github.com/DinhManh203">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,js,py,cpp,nextjs,electron,nodejs,git,vscode,windows,ubuntu,ps,pr&perline=7"
+      src="https://skillicons.dev/icons?i=html,css,js,py,cpp,nextjs,nodejs,git,vscode,windows,ubuntu,ps,pr&perline=7"
       alt="Skills"
     />
   </a>
