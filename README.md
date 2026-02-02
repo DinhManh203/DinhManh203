@@ -33,13 +33,6 @@
 
 <br/>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&theme=vue-dark&hide_border=false&layout=compact"
-    height="150"
-  />
-</div>
-
 ---
 
 ### Random Dev Quote
