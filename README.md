@@ -20,8 +20,6 @@
 - Email: **dinhmanhoke203@gmail.com**  
 - GitHub: open an **Issue** on my repositories  
 
----
-
 ## Programming Languages & Tools
 
 <p align="center">
@@ -32,21 +30,6 @@
     />
   </a>
 </p>
-
----
-
-# GitHub Stats
-
-<div align="center" style="gap-4">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DinhManh203&theme=vue-dark&hide_border=false"
-    height="165"
-  />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=DinhManh203&theme=vue-dark&hide_border=false"
-    height="165"
-  />
-</div>
 
 <br/>
 
