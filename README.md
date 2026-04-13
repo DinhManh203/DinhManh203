@@ -1,40 +1,45 @@
-<div align="center">
-  <a target="_blank" href="https://github.com/DinhManh203">
-    <img 
-      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/video.gif"
-      width="100%"
-      alt="GifBanner"
-    />
-  </a>
-  <h2>✨ Hi! 👋 I'm Dinh Manh. Thanks for visiting my profile! ✨</h2>
-</div>
-
-<br/>
-
-# About Me
-
-👀 I’m interested in **software development, web development, and technology innovations**  
-🌱 I’m currently learning **Python, React, SQL**, and exploring **machine learning**  
-💞️ I’m looking to collaborate on **open-source projects**, especially **web & mobile app development**  
-📫 How to reach me:  
-- Email: **dinhmanhoke203@gmail.com**  
-- GitHub: open an **Issue** on my repositories  
-
-## Programming Languages & Tools
-
+<h1 align="center">Hi 👋, I'm Dinh Manh</h1>
 <p align="center">
-  <a target="_blank" href="https://github.com/DinhManh203">
-    <img 
-      src="https://skillicons.dev/icons?i=html,css,js,py,cpp,nextjs,nodejs,git,vscode,windows,ubuntu,ps,pr&perline=7"
-      alt="Skills"
-    />
-  </a>
+  🚀 Web Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 </p>
 
-<br/>
+<p align="center">
+  <a href="mailto:dinhmanhoke203@gmail.com">Email</a> •
+  <a href="https://github.com/DinhManh203">GitHub</a>
+</p>
 
 ---
 
-### Random Dev Quote
+## 👨‍💻 About Me
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+- 🔭 I’m passionate about **Web Development & Software Engineering**
+- 🌱 Currently learning **Python, React, SQL**
+- 🤖 Exploring **Machine Learning & AI**
+- 🤝 Open to collaborate on **Open-source projects**
+- 💡 Love building **real-world applications**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,nextjs,nodejs,git,vscode&perline=5" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinhManh203&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
