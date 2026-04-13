@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/video.gif" 
+    width="100%" 
+    alt="GifBanner"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Dinh Manh</h1>
 <p align="center">
   🚀 Web Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
@@ -12,11 +20,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m passionate about **Web Development & Software Engineering**
-- 🌱 Currently learning **Python, React, SQL**
-- 🤖 Exploring **Machine Learning & AI**
-- 🤝 Open to collaborate on **Open-source projects**
-- 💡 Love building **real-world applications**
+- 🔭 Passionate about **Web Development**
+- 🌱 Learning **Python, React, SQL**
+- 🤖 Exploring **Machine Learning**
+- 🤝 Open to **Open-source collaboration**
 
 ---
 
@@ -32,14 +39,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinhManh203&theme=tokyonight" />
-</p>
-
----
-
-## ✨ Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
