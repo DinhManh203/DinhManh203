@@ -38,5 +38,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+  />
+  <br/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DinhManh203&theme=tokyonight" 
+  />
 </p>
