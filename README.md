@@ -41,37 +41,4 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=DinhManh203&theme=default" 
   />
-</p><p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/video.gif" 
-    width="100%" 
-    alt="Banner"
-  />
-</p>
-
-<h1 align="center">Dinh Manh</h1>
-<p align="center">
-  Web Developer • Tech Enthusiast • Lifelong Learner
-</p>
-
-<p align="center">
-  <a href="mailto:dinhmanhoke203@gmail.com">Email</a> •
-  <a href="https://github.com/DinhManh203">GitHub</a>
-</p>
-
----
-
-## About Me
-
-- Passionate about Web Development  
-- Currently learning Python, React, SQL  
-- Interested in Machine Learning  
-- Open to open-source collaboration  
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,nextjs,nodejs,git,vscode&perline=5" />
 </p>
