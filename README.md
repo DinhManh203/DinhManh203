@@ -75,13 +75,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,nextjs,nodejs,git,vscode&perline=5" />
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DinhManh203&theme=default" 
-  />
-</p>
