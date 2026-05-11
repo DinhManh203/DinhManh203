@@ -23,29 +23,25 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🌱 Currently learning **Python, React, SQL**
-- 💻 Passionate about **Web Development**
-- ⚡ Interested in **Machine Learning & Backend**
-- 🤝 Open for **Open Source Collaboration**
-- 🎯 Goal: Become a **Fullstack Developer**
-
-<br clear="both"/>
+- Currently learning **Python, React, SQL**
+- Passionate about **Web Development**
+- Interested in **Machine Learning & Backend**
+- Open for **Open Source Collaboration**
+- Goal: Become a **Fullstack Developer**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,cpp,mysql,mongodb,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,mongodb,git,github&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img 
@@ -61,7 +57,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img 
@@ -71,20 +67,9 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <p align="center">
-  <a href="mailto:dinhmanhoke203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/DinhManh203">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DinhManh203&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="mailto:dinhmanhoke203@gmail.com">Email</a> •
+  <a href="https://github.com/DinhManh203">GitHub</a>
 </p>
