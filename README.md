@@ -1,68 +1,90 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/video.gif"
-    width="85%"
+    width="100%"
     alt="Banner"
   />
 </p>
 
-<h1 align="center">Dinh Manh</h1>
+<h1 align="center">
+  Hi 👋, I'm Dinh Manh
+</h1>
 
-<p align="center">
-  Web Developer • Backend Enthusiast • Lifelong Learner
-</p>
-
-<p align="center">
-  <a href="mailto:dinhmanhoke203@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/DinhManh203">GitHub</a>
-</p>
-
-<br/>
-
-## About Me
-
-- Passionate about Web Development  
-- Currently learning Python, React, SQL  
-- Interested in Machine Learning  
-- Open to open-source collaboration  
-
-<br/>
-
-## Tech Stack
+<h3 align="center">
+  Web Developer • Backend Enthusiast • Tech Lover
+</h3>
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=nextjs,nodejs,react,py,mysql,git&theme=dark"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Enthusiast;Always+Learning+New+Things"
+    alt="Typing SVG"
   />
 </p>
 
-<br/>
+---
 
-## GitHub
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🌱 Currently learning **Python, React, SQL**
+- 💻 Passionate about **Web Development**
+- ⚡ Interested in **Machine Learning & Backend**
+- 🤝 Open for **Open Source Collaboration**
+- 🎯 Goal: Become a **Fullstack Developer**
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,cpp,mysql,mongodb,git,github,vscode&perline=5" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight&hide_border=true"
   />
-
+  
   <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=DinhManh203&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DinhManh203&theme=tokyonight&hide_border=true"
   />
 </p>
 
-<br/>
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <sub>
-    Built with simplicity and curiosity.
-  </sub>
+  <a href="mailto:dinhmanhoke203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/DinhManh203">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DinhManh203&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
