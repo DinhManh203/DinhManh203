@@ -20,25 +20,12 @@
 
 <br/>
 
-## About
+## About Me
 
-```ts
-const dinhmanh = {
-  focus: ["Web Development", "Backend", "Machine Learning"],
-  
-  learning: [
-    "Python",
-    "SQL",
-    "System Design"
-  ],
-
-  tech: [
-    "Next.js",
-    "Node.js",
-    "React"
-  ]
-};
-```
+- Passionate about Web Development  
+- Currently learning Python, React, SQL  
+- Interested in Machine Learning  
+- Open to open-source collaboration  
 
 <br/>
 
