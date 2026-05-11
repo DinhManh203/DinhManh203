@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/video.gif"
-    width="100%"
+    width="85%"
     alt="Banner"
   />
 </p>
@@ -18,46 +18,64 @@
   <a href="https://github.com/DinhManh203">GitHub</a>
 </p>
 
----
+<br/>
 
 ## About
 
 ```ts
 const dinhmanh = {
   focus: ["Web Development", "Backend", "Machine Learning"],
-  learning: ["Python", "SQL", "System Design"],
-  tech: ["Next.js", "Node.js", "React"],
+  
+  learning: [
+    "Python",
+    "SQL",
+    "System Design"
+  ],
+
+  tech: [
+    "Next.js",
+    "Node.js",
+    "React"
+  ]
 };
 ```
 
----
+<br/>
 
 ## Tech Stack
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=nextjs,react,nodejs,py,mysql,git&theme=light" 
+    src="https://skillicons.dev/icons?i=nextjs,nodejs,react,py,mysql,git&theme=dark"
   />
 </p>
 
----
+<br/>
 
 ## GitHub
 
 <p align="center">
   <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=false&hide_border=true&theme=default"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"
   />
 
   <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&hide_border=true&theme=default"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=DinhManh203&hide_border=true&theme=default"
+    src="https://github-readme-streak-stats.herokuapp.com?user=DinhManh203&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
   />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>
+    Built with simplicity and curiosity.
+  </sub>
 </p>
