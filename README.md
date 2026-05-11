@@ -43,21 +43,17 @@
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight&hide_border=true"
-      />
-    </td>
+<p align="center">
+  <img 
+    width="420"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-    <td>
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&theme=tokyonight&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
+  <img 
+    width="320"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
