@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  Web Developer • Backend Enthusiast • Tech Lover
+  Web Developer • Tech Lover
 </h3>
 
 <p align="center">
@@ -42,17 +42,22 @@
 ---
 ## GitHub Stats
 
-<div align="center">
-  <img 
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  
-  <img 
-    width="37%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        height="170"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight&hide_border=true"
+      />
+    </td>
+    <td>
+      <img 
+        height="170"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&theme=tokyonight&hide_border=true"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ## GitHub Streak
