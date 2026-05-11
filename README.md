@@ -11,12 +11,12 @@
 </h1>
 
 <h3 align="center">
-  Web Developer • Tech Lover
+  Fresher Frontend Developer
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Enthusiast;Always+Learning+New+Things"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=Fresher+Frontend+Developer;React+%26+Next.js+Learner;Building+Modern+Web+Applications;Always+Learning+New+Things"
     alt="Typing SVG"
   />
 </p>
@@ -25,21 +25,23 @@
 
 ## About Me
 
-- Currently learning **Python, React, SQL**
-- Passionate about **Web Development**
-- Interested in **Machine Learning & Backend**
-- Open for **Open Source Collaboration**
-- Goal: Become a **Fullstack Developer**
+- Fresher passionate about **Frontend Development**
+- Currently learning **React, Next.js, TypeScript**
+- Interested in creating **modern, responsive UI**
+- Exploring **Backend & Fullstack Development**
+- Love learning new technologies and improving coding skills
+- Goal: Become a **Professional Frontend Engineer**
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,mongodb,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mysql,mongodb,git,github&perline=6" />
 </p>
 
 ---
+
 ## GitHub Stats
 
 <table align="center">
@@ -71,7 +73,7 @@
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
   <a href="mailto:dinhmanhoke203@gmail.com">Email</a> •
