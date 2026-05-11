@@ -42,14 +42,15 @@
 ---
 
 ## GitHub Stats
+
 <p align="center">
   <img 
-    width="400"
+    height="170"
     src="https://github-readme-stats.vercel.app/api?username=DinhManh203&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img 
-    width="335"
+    height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManh203&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
