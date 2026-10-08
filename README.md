@@ -82,7 +82,7 @@ I'm also exploring backend technologies and fullstack development to better unde
       srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions-light.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions.svg"
+      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions-light.svg"
       alt="GitHub contribution graph"
       width="100%"
     />
