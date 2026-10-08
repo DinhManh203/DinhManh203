@@ -75,14 +75,14 @@ I'm also exploring backend technologies and fullstack development to better unde
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/breakout-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/breakout-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/breakout-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions.svg"
       alt="GitHub contribution graph"
       width="100%"
     />
