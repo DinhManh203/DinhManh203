@@ -7,12 +7,12 @@
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm Dinh Manh
+  Hi, I'm Dinh Manh
 </h1>
 
-<h3 align="center">
-  Fresher Frontend Developer
-</h3>
+<p align="center">
+  <strong>Fresher Frontend Developer</strong>
+</p>
 
 <p align="center">
   <img 
@@ -25,26 +25,69 @@
 
 ## About Me
 
-- Fresher passionate about **Frontend Development**
-- Currently learning **React, Next.js, TypeScript**
-- Interested in creating **modern, responsive UI**
-- Exploring **Backend & Fullstack Development**
-- Love learning new technologies and improving coding skills
-- Goal: Become a **Professional Frontend Engineer**
+I'm a Fresher Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+
+Currently, I'm focusing on:
+
+* React
+* Next.js
+* TypeScript
+* Modern UI development
+* Responsive Web Design
+* Frontend architecture
+* Backend and Fullstack development
+
+My goal is to continuously improve my skills and become a professional Frontend Engineer.
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mysql,mongodb,git,github&perline=6" />
-</p>
+### Frontend
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
+
+### Backend
+
+`Node.js` · `Python`
+
+### Database
+
+`MySQL` · `MongoDB`
+
+### Tools
+
+`Git` · `GitHub`
 
 ---
+
+## What I'm Working On
+
+I'm currently building and experimenting with modern web applications using React, Next.js, and TypeScript.
+
+I'm also exploring backend technologies and fullstack development to better understand the entire web development process.
+
+---
+
+## Contribution
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph-dark.svg?game=breakout"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout"
+  >
+  <img 
+    alt="Contribution graph" 
+    src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout"
+  >
 </picture>
 
-###
+---
+
+<p align="center">
+  Always learning. Always building.
+</p>
