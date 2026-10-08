@@ -71,13 +71,23 @@ I'm also exploring backend technologies and fullstack development to better unde
 
 ## Contribution
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph-dark.svg?game=breakout"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout"
+    />
+    <img
+      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/pacman-output/breakout-contribution-graph.svg?game=breakout"
+      alt="GitHub contribution graph"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ###
 
