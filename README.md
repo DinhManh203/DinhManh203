@@ -21,54 +21,6 @@
   />
 </p>
 
----
-
-## About Me
-
-I'm a Fresher Frontend Developer focused on building modern, responsive, and user-friendly web applications.
-
-Currently, I'm focusing on:
-
-* React
-* Next.js
-* TypeScript
-* Modern UI development
-* Responsive Web Design
-* Frontend architecture
-* Backend and Fullstack development
-
-My goal is to continuously improve my skills and become a professional Frontend Engineer.
-
----
-
-## Tech Stack
-
-### Frontend
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
-
-### Backend
-
-`Node.js` · `Python`
-
-### Database
-
-`MySQL` · `MongoDB`
-
-### Tools
-
-`Git` · `GitHub`
-
----
-
-## What I'm Working On
-
-I'm currently building and experimenting with modern web applications using React, Next.js, and TypeScript.
-
-I'm also exploring backend technologies and fullstack development to better understand the entire web development process.
-
----
-
 ## Contribution
 
 <p align="center">
