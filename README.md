@@ -21,28 +21,6 @@
   />
 </p>
 
-## Contribution
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions-light.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/DinhManh203/DinhManh203/main/assets/acrade-contributions-light.svg"
-      alt="GitHub contribution graph"
-      width="100%"
-    />
-  </picture>
-</p>
-
----
-
 <p align="center">
   Always learning. Always building.
 </p>
